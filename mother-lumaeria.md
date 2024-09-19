@@ -12,6 +12,7 @@ _Female Aardling_ -- Bard 5
 | Initiative  | +3  |
 | AC          | 14  |
 | HP          | 29  |
+| Hit dice    | 5d8 |
 
 ## Aardling
 
