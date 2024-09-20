@@ -100,13 +100,16 @@ Once you use this benefit, you can’t use it again until you finish a Long Rest
 
 | Level | Name               |
 | ----- | ------------------ |
+| 0     | Sacred Flame\*     |
 | 0     | Dazzle             |
 | 0     | Friends            |
 | 0     | Vicious Mockery    |
+| 1     | Charm Person\*     |
 | 1     | Cure Wounds        |
 | 1     | Dissonant Whispers |
 | 1     | Healing Word       |
 | 1     | Sleep              |
+| 2     | Mirror Image\*     |
 | 2     | Calm Emotions      |
 | 2     | Heat Metal         |
 | 2     | Knock              |
