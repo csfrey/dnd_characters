@@ -96,26 +96,6 @@ Once you use this benefit, you can’t use it again until you finish a Long Rest
 
 **Font of Inspiration** - You now also regain all your expended uses of Bardic Inspiration when you finish a Short Rest. In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
 
-## Spells
-
-| Level | Name               |
-| ----- | ------------------ |
-| 0     | Sacred Flame\*     |
-| 0     | Dazzle             |
-| 0     | Friends            |
-| 0     | Vicious Mockery    |
-| 1     | Charm Person\*     |
-| 1     | Cure Wounds        |
-| 1     | Dissonant Whispers |
-| 1     | Healing Word       |
-| 1     | Sleep              |
-| 2     | Mirror Image\*     |
-| 2     | Calm Emotions      |
-| 2     | Heat Metal         |
-| 2     | Knock              |
-| 2     | Lesser Restoration |
-| 3     | Mass Healing Word  |
-
 ## Equipment
 
 | Item                           | Cost (gp) |
@@ -146,23 +126,7 @@ Once you use this benefit, you can’t use it again until you finish a Long Rest
 | Revolver                       |           |
 | Revolver ammo                  |           |
 
-## Backstory
-
-Mother Lumaeria was born - or rather hatched - in a nest high up in a tree, left to the mercy of the elements. Luckily, a group of adventurers stumbled upon her nest and found the abandoned hatchling inside. They took her to a nearby orphanage, where she was delivered into the care of the matron who ran the establishment.
-
-Growing up in the orphanage, Lumaeria never found a family to call her own. When she turned 18, she aged out of the system and left to find her own way in the world. She tried her hand at odd jobs around town, but it wasn't long before she found herself working in the brothel owned by the same woman who had run the orphanage. The Madam saw potential in Lumaeria and gave her a chance to earn a living there.
-
-Lumaeria worked hard and eventually rose through the ranks, becoming one of the senior employees at the brothel. When the Madam retired, Lumaeria took over as the new operator. She saved up her earnings and formed relationships with local bigwigs, striking a deal with some pioneers to start a new town closer to the Gulch, away from the authoritarian government of the East, where she would own and run her own brothel.
-
-Business was booming, and the town was growing. Lumaeria was an upstanding businesswoman, registered to all the required guilds and authorities, including MAG. She was well-known for her lively performances at the bar, singing and dancing for the customers. She was even deputized by the sheriff to take care of any unruly customers.
-
-Lumaeria was fiercely protective of all her employees, treating them like family. Her beauty was well-known throughout the town, and she was often compared to the Secretary Birds that roamed the wilds. Her hair was white with black stripes, just like a secretary bird, and her feathers were earthy colors like white, brown, and orange.
-
-However, when the magic from the Gulch started seeping out and causing problems, business slowed down. People started leaving the town as the problems got worse, until it was basically just Lumaeria, the sheriff, and the mayor. Even most of her girls had left to work at other brothels in other towns.
-
-Seeing that the town had collapsed and her business had failed, Lumaeria packed up her things along with her pride and hit the road. Her journey brought her West of the Gulch to a small town called Las Amantes, where she went looking for a familiar face and a new beginning.
-
-# D&D 2024 Spells
+# Spells
 
 ## Cantrips
 
@@ -409,11 +373,54 @@ Up to six creatures of your choice that you can see within range regain Hit Poin
 
 ### Counterspell
 
-| **Detail**     | **Description** |
-| -------------- | --------------- |
-| **School**     | Abjuration      |
-| **Range**      | 60 feet         |
-| **Components** | S               |
-| **Duration**   | Instantaneous   |
+| **Detail**       | **Description** |
+| ---------------- | --------------- |
+| **School**       | Abjuration      |
+| **Casting Time** | 1 reaction      |
+| **Range**        | 60 feet         |
+| **Components**   | S               |
+| **Duration**     | Instantaneous   |
 
 You attempt to interrupt a creature in the process of casting a spell. The creature must make a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
+
+# Story
+
+## Backstory
+
+Mother Lumaeria was born - or rather hatched - in a nest high up in a tree, left to the mercy of the elements. Luckily, a group of adventurers stumbled upon her nest and found the abandoned hatchling inside. They took her to a nearby orphanage, where she was delivered into the care of the matron who ran the establishment.
+
+Growing up in the orphanage, Lumaeria never found a family to call her own. When she turned 18, she aged out of the system and left to find her own way in the world. She tried her hand at odd jobs around town, but it wasn't long before she found herself working in the brothel owned by the same woman who had run the orphanage. The Madam saw potential in Lumaeria and gave her a chance to earn a living there.
+
+Lumaeria worked hard and eventually rose through the ranks, becoming one of the senior employees at the brothel. When the Madam retired, Lumaeria took over as the new operator. She saved up her earnings and formed relationships with local bigwigs, striking a deal with some pioneers to start a new town closer to the Gulch, away from the authoritarian government of the East, where she would own and run her own brothel.
+
+Business was booming, and the town was growing. Lumaeria was an upstanding businesswoman, registered to all the required guilds and authorities, including MAG. She was well-known for her lively performances at the bar, singing and dancing for the customers. She was even deputized by the sheriff to take care of any unruly customers.
+
+Lumaeria was fiercely protective of all her employees, treating them like family. Her beauty was well-known throughout the town, and she was often compared to the Secretary Birds that roamed the wilds. Her hair was white with black stripes, just like a secretary bird, and her feathers were earthy colors like white, brown, and orange.
+
+However, when the magic from the Gulch started seeping out and causing problems, business slowed down. People started leaving the town as the problems got worse, until it was basically just Lumaeria, the sheriff, and the mayor. Even most of her girls had left to work at other brothels in other towns.
+
+Seeing that the town had collapsed and her business had failed, Lumaeria packed up her things along with her pride and hit the road. Her journey brought her West of the Gulch to a small town called Las Amantes, where she went looking for a familiar face and a new beginning.
+
+## Session Notes
+
+### 9/21/24
+
+- Lady Keothi Dawncaller is giving a speech in the town square tomorrow
+- people have mixed feelings bout Keothi
+- bartender's name is Tith (Tiff?)
+- Tith and Casey get nasty
+- Huxter and Clyde get murdered in the night by the vampire
+- Tempest shows up and there's tension
+- The sheriff shows up
+- the vampire is still in town which we knows because Zoen marked him
+- we follow the mark to a warehouse which is protected by guards
+- the mark fades away for some reason
+- Lady Dawncaller comes out of the building
+- we follow and the dawncaller gives a speech
+- Lady Dawncaller reveals the severed head of the vampire
+- Dawncaller gives me a blessing from Solas
+- Solas is the god of sun/fire/fiery passion, an older god not many worship
+- she mentions that she has a "vast network of information" or something like that
+- someone puts something in Zoen's pocket
+- Tempest tries to chase the person (Prudence aka Rue)
+- We get level 6!!!!!!!!
