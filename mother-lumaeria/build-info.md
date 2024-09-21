@@ -176,7 +176,9 @@ Seeing that the town had collapsed and her business had failed, Lumaeria packed 
 | **Components**   | V, S            |
 | **Duration**     | Instantaneous   |
 
-Flame-like radiance descends on a creature that you can see within range.
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
+
+**Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ---
 
@@ -220,6 +222,7 @@ The spell ends early if the target takes damage or if you make an attack roll, d
 | **Duration**     | Instantaneous   |
 
 You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
+
 **Cantrip Upgrade.** The damage increases by 1d6 when you reach level 5 (2d6), level 11 (3d6), and level 17 (4d6).
 
 ---
@@ -237,6 +240,7 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 | **Duration**     | 1 hour          |
 
 One Humanoid you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
+
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
 ---
@@ -252,6 +256,7 @@ One Humanoid you can see within range makes a Wisdom saving throw. It does so wi
 | **Duration**     | Instantaneous   |
 
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
+
 **Using a Higher-Level Spell Slot.** The healing increases by 2d8 for each spell slot level above 1.
 
 ---
@@ -267,6 +272,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 | **Duration**     | Instantaneous   |
 
 One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes 3d6 Psychic damage and must immediately use its Reaction, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
+
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 
 ---
@@ -282,6 +288,7 @@ One creature of your choice that you can see within range hears a discordant mel
 | **Duration**     | Instantaneous   |
 
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
+
 **Using a Higher-Level Spell Slot.** The healing increases by 2d4 for each spell slot level above 1.
 
 ---
