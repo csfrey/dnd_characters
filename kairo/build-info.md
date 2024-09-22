@@ -2,6 +2,8 @@
 
 _Male(?) kitsune_ - Talent 5 (Pyrokinetic)
 
+[Mood board](https://www.pinterest.com/gretafrey95/kairō/)
+
 Rolls: 15, 12, 10, 15, 12, 13
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -247,3 +249,9 @@ You create a focused 30-foot cone of bright light, which
 has sharp edges and gives off no dim light. You can
 change the color of the light and can turn it on and off as
 you desire (no action required).
+
+## Story
+
+### Backstory
+
+Kai'rō is a rich pretty boy from the feywild
