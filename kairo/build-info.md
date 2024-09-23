@@ -52,6 +52,21 @@ Rolls: 15, 12, 10, 15, 12, 13
 
 When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
 
+## Equipment
+
+- a briefcase
+- school supplies
+- small wallet with ID, debit card, and a bit of cash
+- small survival knife
+
+### Brooch of the Hidden Word
+
+_Wondrous item (very rare, requires attunement by a talent)_
+
+As an action, you can forge a telepathic link with another willing creature within 30 feet of you. You and the creature can then communicate telepathically with each other through the bond, whether you share a common language or not. Once this link is established, communication is possible over any distance so long as you are on the same plane as the other creature. The link ends if one or both creatures becomes incapacitated or dies, if the owner severs the connection, or if the link is blocked by some psionic means.
+
+**_Level Scaling._** At 1st level you can forge a telepathic link with up to one creature. This limit increases to two creatures at 11th level, and three creatures at 17th level.
+
 ## Talent - Pyrokinetic
 
 | Trait             | Description                                                    |
@@ -80,7 +95,7 @@ Whenever you fail a Constitution saving throw to maintain concentration on one o
 
 #### Psionic Specialization - Pyrokinetic
 
-**Flame On.** As an action, you psionically create a ball of flame that appears on your body. The flame harms neither you nor your equipment, and sheds breight light in a 20-foot radius and dim light for an additional 20 feet. You can create only one flame at a time in this way.
+**Flame On.** As an action, you psionically create a ball of flame that appears on your body. The flame harms neither you nor your equipment, and sheds bright light in a 20-foot radius and dim light for an additional 20 feet. You can create only one flame at a time in this way.
 
 As part of the action used to create the flame, or as an action if you created the flame previously, you can make a melee or ranged power attack with it. If you make a ranged attack, you can hurl the flame at a target up to 60 feet away from you. On a hit, the target takes fire damage equal to 1d6+INT (min. +1). Any flammable object hit by the flame ignites if it isn't being worn or carried.
 
@@ -198,52 +213,6 @@ Whenever you gain strain, you also gain 1 pressure point for each strain you gai
 | 4     | Harlequin      | Puppet another creature                                     |
 | 4     | Shadow Form    | Like Fire form but sp00ky                                   |
 
-### Caress of Fire
-
-| **Detail**    | **Description**        |
-| ------------- | ---------------------- |
-| **Order**     | 1                      |
-| **Specialty** | Pyrokinesis            |
-| **Time**      | 1 action               |
-| **Range**     | touch                  |
-| **Duration**  | Concentration, up to 1 |
-
-You touch a willing creature, which becomes wreathed in psionic fire that isn’t harmful to you or them. Whenever another creature within 5 feet of the target touches them for the first time on a turn or hits them with a melee attack, that creature takes 1d4 fire damage.
-
-### Flame's Master
-
-| **Detail**    | **Description** |
-| ------------- | --------------- |
-| **Order**     | 1               |
-| **Specialty** | Pyrokinesis     |
-| **Time**      | 1 action        |
-| **Range**     | 30 feet         |
-| **Duration**  | Instantaneous   |
-
-You emit a burst of psionic energy that affects every
-Medium or smaller fire-based light source within range,
-allowing you to ignite a target light source or snuff it out,
-choosing individually for each source. Such light sources
-include campfires, candles, fireplaces, lanterns, oil lamps,
-torches, and the like, but don’t include supernatural
-sources such as a sun blade or an object affected by
-the light spell.
-
-### Illuminator
-
-| **Detail**    | **Description**     |
-| ------------- | ------------------- |
-| **Order**     | 1                   |
-| **Specialty** | Resopathy           |
-| **Time**      | 1 action            |
-| **Range**     | Self (30-foot cone) |
-| **Duration**  | 1 hour              |
-
-You create a focused 30-foot cone of bright light, which
-has sharp edges and gives off no dim light. You can
-change the color of the light and can turn it on and off as
-you desire (no action required).
-
 ## Story
 
 ### Origins and Early Life
@@ -254,8 +223,10 @@ Deep in the forests of the Feywild, a fox grew it's second tail. The cries of th
 
 Kai'rō had a very hard time adjusting to his new life in the big city. Even in the sheltered community of the university, the strange customs and technology of the Material Plane confused and frightened him. He found himself often retreating the quiet corners of the Wilson Library for some escape. One day in second semester, he went to his usual place in the library to study, which he picked because there was never anyone around. But this time, in his usual seat, there was a girl. Unsure of what do to, he picked another seat at the table and awkwardly began to study as usual. The two shared the space for several hours before the girl finally got up and left.
 
-The next day, when Kai'rō returned, she was there again in the same spot, quietly studying. So again, he quietly sat down and studied. This pattern continued for two weeks before Kai'rō finally said anything to the girl, only to discover, rather clumsily, that she was non-verbal. Over the rest of the semester the two studied silently nearly every day, forming a quiet bond in the silence. The girl would occasionally write notes for Kai'rō when she need to say something, which is how he came to learn that her name was Nia. Over their time at the University, this unlikely pairing developed into a strong friendship - the closest friend Kai'rō ever had. Hardly any words were shared between them, but neither of them felt the need. They understood each other as if by instinct.
+The next day, when Kai'rō returned, she was there again in the same spot, quietly studying. So again, he quietly sat down and studied. This pattern continued for two weeks before Kai'rō finally said anything to the girl, only to discover, rather clumsily, that she was non-verbal. Over the rest of the semester the two studied silently nearly every day, forming a quiet bond in the silence. The girl would occasionally write notes for Kai'rō when she needed to say something, which is how he came to learn that her name was Nia. Over their time at the University, this unlikely pairing developed into a strong friendship - the closest friend Kai'rō ever had. Hardly any words were shared between them, but neither of them felt the need. They understood each other as if by instinct.
 
 ### The Artifact
 
-Nia, it turned out, was a deeply gifted magitech engineering student at UCSA on a full-ride scholarship. She would often proudly present her excellent grades to Kai'rō when they studied together. One day in Junior year, while studying a book on ancient artifacts, Nia discovered a chapter about an ancient artifact of an great Psion that allowed for telepathic communication over great distances. Nia excitedly showed this to Kai'rō and the two
+Nia, it turned out, was a deeply gifted magitech engineering student at UCSA on a full-ride scholarship. She would often proudly present her excellent grades to Kai'rō when they studied together. One day in Junior year, while studying a book on ancient artifacts, Nia discovered a chapter about an ancient artifact of an great Psion that allowed for telepathic communication over great distances. Nia excitedly showed this to Kai'rō and the two decided to combine Nia's engineering skills with Kai'rō's psionic abilities to research and construct this as artifact with modern technology as a joint senior research project. Construction took over a year of grueling researching and effort, but finally, the two constructed the Brooch of the Hidden Word. After years of silent friendship, Nia and Kai'rō could communicate freely through the power of thought.
+
+Graduation was a somber affair. Kai'rō was deeply proud of his accomplishments in learning to control his powers, but he knew he would only have until the end of the summer before his Planar Exhange agreement would force him to return to the Feywild.
