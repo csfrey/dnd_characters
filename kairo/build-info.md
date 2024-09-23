@@ -107,7 +107,9 @@ area of effect, you can gain strain equal to the power’s order to target a sec
 
 ### 4th Level
 
-**Ability Score Improvement.** Intelligence +2.
+#### Ability Score Improvement.
+
+Intelligence +2.
 
 ### 5th level
 
@@ -162,7 +164,7 @@ You can't be charmed or frightened, and magic psionics can't put you to sleep. A
 
 ### 12th level
 
-#### Better Under Pressure
+#### Feat: Better Under Pressure
 
 Whenever you gain strain, you also gain 1 pressure point for each strain you gain this way. Thereafter, whenever you make a D20 test, you can spend up to 3 pressure points and add 1 to the roll for each point spent. You can wait until after you roll the d20 before deciding to spend pressure points. You lose all your pressure points when you finish a long rest.
 
@@ -195,14 +197,6 @@ Whenever you gain strain, you also gain 1 pressure point for each strain you gai
 | 4     | Melt           | Heat metal but dex save, instantaneous, and 5d10            |
 | 4     | Harlequin      | Puppet another creature                                     |
 | 4     | Shadow Form    | Like Fire form but sp00ky                                   |
-
-| **Detail**    | **Description** |
-| ------------- | --------------- |
-| **Order**     |                 |
-| **Specialty** |                 |
-| **Time**      |                 |
-| **Range**     |                 |
-| **Duration**  |                 |
 
 ### Caress of Fire
 
@@ -252,6 +246,16 @@ you desire (no action required).
 
 ## Story
 
-### Backstory
+### Origins and Early Life
 
-Kai'rō is a rich pretty boy from the feywild
+Deep in the forests of the Feywild, a fox grew it's second tail. The cries of this newly-born kitsune were heard by a nearby village of elves, who rescued the boy and named him Kai'rō. The elves of the village tried their best to raise this stranger, but they were all of them perplexed. Early in his new life, Kai'rō began manifesting strange psionic abilities that shocked even the village elders. As he grew, Kai'rō struggled to control his abilities which had a particular tendency toward manifestations of fire and destruction. His adoptive parents loved him so, but new they were out of their depth. So, when Kai'rō was a young adult - the human equivalent of about 18 years old - arrangements were made for him to be a Planar Exchange student at the University of California San Astra, on the Material Plane. There, he would study psionics and learn to control his powers.
+
+### Trouble Fitting In
+
+Kai'rō had a very hard time adjusting to his new life in the big city. Even in the sheltered community of the university, the strange customs and technology of the Material Plane confused and frightened him. He found himself often retreating the quiet corners of the Wilson Library for some escape. One day in second semester, he went to his usual place in the library to study, which he picked because there was never anyone around. But this time, in his usual seat, there was a girl. Unsure of what do to, he picked another seat at the table and awkwardly began to study as usual. The two shared the space for several hours before the girl finally got up and left.
+
+The next day, when Kai'rō returned, she was there again in the same spot, quietly studying. So again, he quietly sat down and studied. This pattern continued for two weeks before Kai'rō finally said anything to the girl, only to discover, rather clumsily, that she was non-verbal. Over the rest of the semester the two studied silently nearly every day, forming a quiet bond in the silence. The girl would occasionally write notes for Kai'rō when she need to say something, which is how he came to learn that her name was Nia. Over their time at the University, this unlikely pairing developed into a strong friendship - the closest friend Kai'rō ever had. Hardly any words were shared between them, but neither of them felt the need. They understood each other as if by instinct.
+
+### The Artifact
+
+Nia, it turned out, was a deeply gifted magitech engineering student at UCSA on a full-ride scholarship. She would often proudly present her excellent grades to Kai'rō when they studied together. One day in Junior year, while studying a book on ancient artifacts, Nia discovered a chapter about an ancient artifact of an great Psion that allowed for telepathic communication over great distances. Nia excitedly showed this to Kai'rō and the two
