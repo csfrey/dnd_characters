@@ -212,31 +212,3 @@ Whenever you gain strain, you also gain 1 pressure point for each strain you gai
 | 4     | Melt           | Heat metal but dex save, instantaneous, and 5d10            |
 | 4     | Harlequin      | Puppet another creature                                     |
 | 4     | Shadow Form    | Like Fire form but sp00ky                                   |
-
-## Story
-
-### Origins and Early Life
-
-Deep in the forests of the Feywild, a fox grew it's second tail. The cries of this newly-born kitsune were heard by a nearby village of elves, who rescued the boy and named him Kai'rō. The elves of the village tried their best to raise this stranger, but they were all of them perplexed. Early in his new life, Kai'rō began manifesting strange psionic abilities that shocked even the village elders. As he grew, Kai'rō struggled to control his abilities which had a particular tendency toward manifestations of fire and destruction. His adoptive parents loved him so, but new they were out of their depth. So, when Kai'rō was a young adult - the human equivalent of about 18 years old - arrangements were made for him to be a Planar Exchange student at the University of California San Astra, on the Material Plane. There, he would study psionics and learn to control his powers.
-
-### Trouble Fitting In
-
-Kai'rō had a very hard time adjusting to his new life in the big city. Even in the sheltered community of the university, the strange customs and technology of the Material Plane confused and frightened him. He found himself often retreating the quiet corners of the Wilson Library for some escape. One day in second semester, he went to his usual place in the library to study, which he picked because there was never anyone around. But this time, in his usual seat, there was a girl. Unsure of what do to, he picked another seat at the table and awkwardly began to study as usual. The two shared the space for several hours before the girl finally got up and left.
-
-The next day, when Kai'rō returned, she was there again in the same spot, quietly studying. So again, he quietly sat down and studied. This pattern continued for two weeks before Kai'rō finally said anything to the girl, only to discover, rather clumsily, that she was non-verbal. Over the rest of the semester the two studied silently nearly every day, forming a quiet bond in the silence. The girl would occasionally write notes for Kai'rō when she needed to say something, which is how he came to learn that her name was Nia. Over their time at the University, this unlikely pairing developed into a strong friendship - the closest friend Kai'rō ever had. Hardly any words were shared between them, but neither of them felt the need. They understood each other as if by instinct.
-
-### The Artifact
-
-By their Junior year, Kai'rō and Nia were inseparable, often working late into the night in the library or engineering labs. Nia was a prodigy in magitech engineering, while Kai'rō was beginning to get a handle on his psionic powers.
-
-One evening, while studying some ancient texts on psionics, they came across a passage about an artifact known as the Brooch of Hidden Word. This ancient relic supposedly allowed its wearer to communicate telepathically across great distances. The discovery excited them both, and Nia proposed they attempt to recreate the artifact using modern magitech as a joint senior project, blending Nia's engineering expertise with Kai'rō's psionic abilities.
-
-The project was grueling, and during its construction, the pressure began to weigh on Kai'rō. As graduation loomed, the realization that he would have to return to the Feywild gnawed at him. The university had become his sanctuary, but the Planar Exchange agreement was non-negotiable. Worse, Kai'rō felt a growing fear that, despite all he had learned, he might never fully control his powers. Nia, sensing his unease, remained his steadfast partner, pushing through late nights in the lab when Kai'rō was on the verge of giving up.
-
-Finally, after a year of effort, they succeeded. The Brooch of the Hidden Word was complete, and for the first time, Kai'rō and Nia could communicate freely through thought.
-
-### Graduation and Beyond
-
-Graduation came and went, and while their project was hailed as a groundbreaking achievement, Kai'rō felt a sense of unease. His time at university was over, and with it, most of his time on the Material Plane. He dreaded returning to the Feywild, not just out of fear of rejection, but because of a nagging feeling that his journey was far from over.
-
-Soon after graduation, while Kai'rō and Nia were cleaning out their lab space at the university, Nia was thumbing through the book where they had first read about the Brooch. As she held the tome, a page fell out that neither of them had ever seen before. It described another artifact, even more powerful than the Brooch - the Crown of the Infinite Mind. The passage was crypic, warning of both immense power and great peril, and hinting that the crown may have been hidden away in the spaces between planes. This discovery stirred something in Kai'rō, though he couldn't quite place it. He was at once disturbed at the very existence of such a terrible thing, but something within him was drawn to it. Could this be the answer to finally gain mastery over his powers? And why would anyone hide it away? The text gave no clues to how it could be found, if it even still existed, but still lingered in Kai'rō's mind.
