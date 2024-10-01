@@ -57,3 +57,17 @@ After graduation, Nia entered a new phase of her life, quickly securing a job wi
 Despite her professional success, Nia’s life after university wasn’t without its challenges. Though she had the security of a good job, the fast-paced world of arcane engineering left little time for the quiet contemplation she had once enjoyed. She often stayed late at the lab, perfecting her designs, but her mind frequently drifted back to the time she spent with Kai’rō. Through the Brooch of the Hidden Word, they remained connected, their telepathic bond keeping them close despite the physical distance. They would share thoughts, ideas, and emotions through their link, maintaining the deep connection they had forged, even as their lives began to move in different directions.
 
 Outside of work, Nia remained a private person, preferring the solitude of her home to the busy social life of the city. She occasionally worked on personal projects, applying the same passion for invention that had driven her during her time at UCSA. Her bond with Kai’rō was a constant in her life, one of the few connections that made her feel understood. Though they now walked separate paths, the telepathic link between them kept their friendship strong. Nia continued to grow professionally, but the quiet moments of connection with Kai’rō reminded her of the importance of the things that couldn’t be measured by success alone.
+
+## Possible Lore Ties
+
+- How does the Planar Exchange program work?
+  - Do students need sponsorship?
+  - When do they have to return to their home plane?
+- How does planar travel work?
+  - Drake Corp was doing R&D on traveling interplanar rifts
+  - Interplanar rifts are central to Kai’rō's character even if he doesn't remember
+- How did the conflicts in the Summer Court impact Kai’rō's life in the Feywild?
+- Kai’rō and Nia's work on the Brooch was a big deal, may have gotten attention
+  - Drake Corp has an interest in artifacts
+  - Maybe Drake Corp people followed the R&D and came to the final presentation
+- Who does Nia work for now???
