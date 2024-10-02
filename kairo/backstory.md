@@ -58,6 +58,19 @@ Despite her professional success, Nia’s life after university wasn’t without
 
 Outside of work, Nia remained a private person, preferring the solitude of her home to the busy social life of the city. She occasionally worked on personal projects, applying the same passion for invention that had driven her during her time at UCSA. Her bond with Kai’rō was a constant in her life, one of the few connections that made her feel understood. Though they now walked separate paths, the telepathic link between them kept their friendship strong. Nia continued to grow professionally, but the quiet moments of connection with Kai’rō reminded her of the importance of the things that couldn’t be measured by success alone.
 
+## Fun Facts
+
+- **Favorite Study Snack:** Kai’rō has a deep fondness for lavender tea and honeyed acorn biscuits, a nostalgic treat from his Feywild childhood. While he tries to recreate them in the Material Plane, the flavors never quite taste the same, leaving him longing for a taste of home.
+- **Can’t Lie to Save His Life:** Kai’rō is extremely bad at telling a direct lie. Instead, he’s perfected the art of evasion, speaking in riddles or giving vague answers when he doesn’t want to reveal the truth.
+- **Fey Festivals Confuse Him:** Growing up in the Feywild, where time is fluid and festivals can last days or even minutes, Kai’rō often loses track of time during holidays on the Material Plane. He once showed up a week late to a party, completely unphased by the mix-up.
+- **Used to Be a Fox:** Though he rarely speaks of it, Kai’rō sometimes misses his simple life as a fox in the Feywild. He still enjoys doing fox-like things, such as curling up in cozy spaces or napping in warm patches of sunlight, feeling a deep connection to his former life.
+- **Rain Calms Him:** The sound of rain has a soothing effect on Kai’rō. He often sits by a window during storms, finding peace in the steady rhythm of raindrops.
+- **Talks to Animals:** Although he lacks magical abilities to speak with animals, Kai’rō frequently talks to birds, squirrels, and other small creatures. Strangely, they seem to respond to him in their own way.
+- **Keeps a Dream Journal:** Kai’rō’s dreams are often vivid and strange, filled with cryptic visions. He keeps a journal to record them, sometimes sketching odd symbols or writing down single words that stand out.
+- **Mesmerized by Fireflies:** He is fascinated by fireflies and often compares their flickering light to the magic of the Feywild. Watching them brings him a deep sense of nostalgia and wonder.
+- **Fascinated by Arcane Tattoos:** Kai’rō is intrigued by magical tattoos and their power. Though he doesn’t have any himself, he frequently asks people about the stories behind their arcane ink and considers getting one of his own.
+- **Can't Use Magic:** Kai’rō has tried to learn traditional spellcasting but has never been able to do it.
+
 ## Possible Lore Ties
 
 - How does the Planar Exchange program work?
