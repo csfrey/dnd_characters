@@ -37,7 +37,7 @@ _Female Sour Patch Kid (Halfling)_ -- Fighter 6
 
 **Position of Privilege.** Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
 
-## Campaign Specific Freebies\*\*
+## Campaign Specific Freebies
 
 | Freebie               | Chosen                                                                                               |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -45,8 +45,6 @@ _Female Sour Patch Kid (Halfling)_ -- Fighter 6
 | Uncommon magic item   | [Plate of Knight's Fellowship](https://dnd5e.wikidot.com/wondrous-items:plate-of-knights-fellowship) |
 | Uncommon magic weapon | +1 Greatsword                                                                                        |
 | Uncommon magic weapon | [Sling of Giant Felling](https://dnd5e.wikidot.com/wondrous-items:sling-of-giant-felling)            |
-
-**Plate of Knight's Fellowship**
 
 ## 1st Level
 
