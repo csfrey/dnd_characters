@@ -39,12 +39,14 @@ _Female Sour Patch Kid (Halfling)_ -- Fighter 6
 
 ## Campaign Specific Freebies\*\*
 
-| Freebie               | Chosen                       |
-| --------------------- | ---------------------------- |
-| Extra feat            | Sentinel                     |
-| Uncommon magic item   | Plate of Knight's Fellowship |
-| Uncommon magic weapon | +1 Greatsword                |
-| Uncommon magic weapon | Sling of Giant Felling       |
+| Freebie               | Chosen                                                                                               |
+| --------------------- | ---------------------------------------------------------------------------------------------------- |
+| Extra feat            | Sentinel                                                                                             |
+| Uncommon magic item   | [Plate of Knight's Fellowship](https://dnd5e.wikidot.com/wondrous-items:plate-of-knights-fellowship) |
+| Uncommon magic weapon | +1 Greatsword                                                                                        |
+| Uncommon magic weapon | [Sling of Giant Felling](https://dnd5e.wikidot.com/wondrous-items:sling-of-giant-felling)            |
+
+**Plate of Knight's Fellowship**
 
 ## 1st Level
 
@@ -53,7 +55,7 @@ _Female Sour Patch Kid (Halfling)_ -- Fighter 6
 | Primary Ability      | Strength                                                          |
 | Hit Die              | d10                                                               |
 | Saving Throws        | Strength and Constitution                                         |
-| Skill Proficiencies  | Athletics, History                                                |
+| Skill Proficiencies  | Athletics, Perception                                             |
 | Weapon Proficiencies | Simple and Martial weapons                                        |
 | Armor Training       | Light, medium, heavy armor and shields                            |
 | Equipment            | Chainmail, Greatsword, Flail, 8 javelins, Dungeoneer's pack, 4 gp |
