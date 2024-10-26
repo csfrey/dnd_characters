@@ -127,3 +127,16 @@ Whenever you activate your Second Wind with a Bonus Action, you can move up to h
 
 Strength +1
 Constitution +1
+
+# Backstory
+
+Ser Patchia of House Sorkid, a knight of North Gumbia, hails from one of Candia’s oldest and most respected gummy families, known for their mastery of sour-sugar craftsmanship. Forged from a special blend of sweet and sour gummy, Patchia's form is semi-translucent, with glittering sugar crystals embedded in her skin, giving her a radiant appearance that reflects her noble heritage.
+She earned her knighthood by defending the village of Gumhaven from a plague of candied locusts, using her strength and determination to carve through the swarm and drive them back into the Sourlands. For her bravery, she was awarded the family heirloom, Bitterbite, a greatsword forged with soursteel and infused with the enchanted essence of the Sweetening Path. Now, as a Knight of North Gumbia, Ser Patchia travels across Candia, ready to face any threats that might sour the peace. Her quest is not only for glory but also to prove that House Sorkid’s legacy endures in her hands.
+
+### Bitterbite
+
+The blade is forged from soursteel, a rare alloy infused with the essence of sour magic during the forging process, giving it a faint greenish hue that shimmers in the light. The blade's surface is adorned with intricate etchings resembling swirling currents of liquid sugar, a nod to the Sweetening Path—a tradition that honors Candia's ancient animist beliefs.
+
+The hilt of Bitterbite is wrapped in soft, dark licorice leather, providing a comfortable and firm grip. The crossguard is shaped like twisted sour ropes, symbolizing the intertwining of sweet and sour forces, and the pommel is set with a round, polished sugar gem that glows faintly in the dark, a purely decorative feature that adds to the weapon's allure.
+
+Bitterbite has been passed down through generations of House Sorkid, each wielder engraving their own small mark along the blade's edge. Though its magic may be simple, the sword carries the weight of history and tradition, serving as a reminder that even a weapon of modest enchantment can become legendary in the hands of a worthy knight. For Patchia, wielding Bitterbite is not just about combat; it's about carrying the legacy of her family and proving herself as a true knight of Candia.
